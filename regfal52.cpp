@@ -9,7 +9,7 @@ using namespace std;
 double func(double x)
 {
     double e = 2.71828;
-    return 4 *  sin(x) - pow(e,x);
+    return 4 *  sin(x) - pow(e,x); //enter your equation here :P After return
 }
 
 // Prints root of func(x) in interval [a, b]
